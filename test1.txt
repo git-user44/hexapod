@@ -1,0 +1,5 @@
+torque
+walk3:0.9,0,0
+# sleep for 3 secs
+?3
+clear
