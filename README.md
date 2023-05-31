@@ -12,6 +12,6 @@ It seemed to me that the easiest thing to do was to continue to use the Chica Se
 
 4) The program here is just a sample of how to talk the server.
 
-5) What you should be reading is the protocol.rtf file.
+5) What you should be reading is the protocol.txt file.
 
 ## Enjoy.
